@@ -23,6 +23,4 @@ A full‑stack job portal application built with **React + Vite** (frontend) and
 | Database     | MongoDB 
 | Version Control | Git & GitHub |
 
----
 
-## 📂 Project Structure
